@@ -1,7 +1,8 @@
 /*
 
-Consultas a la base de datos histórica de los juegos olímpicos.
+Consultas a la base de datos histórica de los juegos olímpicos. La base de datos se encuentra en la carpeta "Olympic_Games".
 
+Hablidades empleadas: Selects, joins, window functions,tablas temporales, expresiones comunes (CTE) y crosstabs.
 */
 
 /* 1. Cuántos juegos olímpicos se han llevado a cabo? */
